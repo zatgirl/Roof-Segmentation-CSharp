@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.6.3, )"
             },
+            "MPI.NET": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "Microsoft.ML.OnnxRuntime": {
               "target": "Package",
               "version": "[1.15.0, )"
